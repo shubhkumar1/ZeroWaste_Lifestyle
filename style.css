@@ -160,9 +160,9 @@ main {
 }
 
 
-.thrd .boxes1 {
+/* .thrd .boxes1 {
     display: flex;
-}
+} */
 
 .thrd .desk .box1 img {
     width: 350px;
@@ -186,6 +186,11 @@ main {
     background-color: rgba(255, 255, 255, 1);
     box-shadow: 0px 0px 5px 5px green;
     margin: 20px;
+}
+.boxes2 .box1 div:first-child{
+    font-family: "Roboto Slab", serif;
+    font-weight: bolder;
+    font-size: larger;
 }
 
 .img1 img {
